@@ -23,7 +23,6 @@ Compile and run :
 $ hascal example.has
 $ ./example
 hello world
-$
 ```
 
 ## License
