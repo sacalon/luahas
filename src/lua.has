@@ -1,0 +1,2 @@
+use libcpp.lua
+function lua_exec(code:string)

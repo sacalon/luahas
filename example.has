@@ -1,0 +1,6 @@
+use lua
+
+function main():int {
+	lua_exec("print 'hello world'")
+	return 0
+}
