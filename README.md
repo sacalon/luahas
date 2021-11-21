@@ -10,7 +10,7 @@ $ hascal install lua
 At first install lua with top command.
 
 `example.has` :
-```
+```typescript
 use lua
 
 function main():int {
@@ -19,7 +19,7 @@ function main():int {
 }
 ```
 Compile and run :
-```
+```bash
 $ hascal example.has
 $ ./example
 hello world
