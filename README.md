@@ -7,8 +7,11 @@ $ hascal install lua
 ```
 
 ## Example
+At first install lua with top command.
+
+`example.has` :
 ```
-use lua # first : hascal install lua
+use lua
 
 function main():int {
 	lua_exec("print 'hello world'")
