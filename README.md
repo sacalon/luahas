@@ -1,2 +1,27 @@
 # Lua4Hascal
-Lua interpreter for Hascal
+Lua interpreter for [Hascal language](https://github.com/hascal/hascal)
+
+## Install
+```
+$ hascal install lua
+```
+
+## Example
+```
+use lua # first : hascal install lua
+
+function main():int {
+	lua_exec("print 'hello world'")
+	return 0
+}
+```
+Compile and run :
+```
+$ hascal example.has
+$ ./example
+hello world
+$
+```
+
+## License
+**MIT**
