@@ -1,2 +1,2 @@
-use libcpp.lua
+cuse luac 
 function lua_exec(code:string)
