@@ -11,7 +11,7 @@ At first install lua with top command.
 
 `example.has` :
 ```typescript
-use lua
+use luahas
 
 function main():int {
 	lua_exec("print 'hello world'")
