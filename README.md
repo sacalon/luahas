@@ -1,5 +1,5 @@
-# Lua4Hascal
-Lua interpreter for [Hascal language](https://github.com/hascal/hascal)
+# LuaHas
+Lua interpreter for [Hascal programming language](https://github.com/hascal/hascal)
 
 ## Install
 ```
