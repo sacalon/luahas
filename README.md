@@ -3,13 +3,10 @@ Lua interpreter for [Hascal programming language](https://github.com/hascal/hasc
 
 ## Install
 ```
-$ hascal install lua
+$ hascal get github.com/bistcuite/luahas luahas
 ```
 
 ## Example
-At first install lua with top command.
-
-`example.has` :
 ```typescript
 use luahas
 
