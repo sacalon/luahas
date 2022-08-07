@@ -3,8 +3,7 @@ Lua interpreter for [Hascal programming language](https://github.com/hascal/hasc
 
 ## Install
 Requirements :
-- [Latest Hascal compiler](https://github.com/hascal/hascal/releases)
-- [Hascal's requirements](https://hascal.github.io/docs/latest/lang/1_install.html)
+- [Latest Hascal compiler](https://github.com/hascal/hascal/releases).
 
 ```
 $ hascal get github.com/bistcuite/luahas luahas
