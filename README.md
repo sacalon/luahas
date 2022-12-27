@@ -6,12 +6,12 @@ Requirements :
 - [Latest Hascal compiler](https://github.com/hascal/hascal/releases).
 
 ```
-$ hascal get github.com/bistcuite/luahas luahas
+$ hascal get github.com/bistcuite/luahas lua
 ```
 
 ## Example
 ```typescript
-use luahas
+use lua
 
 function main():int {
 	lua_exec("print 'hello world'")
