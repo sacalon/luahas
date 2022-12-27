@@ -2,7 +2,7 @@ struct Lua {
 	lua_State *L ;
 };
 
-void lua_exec(std::string code){
+void __hascal__lua_exec(std::string code){
 	Lua lua = {luaL_newstate()};
 	if(lua.L == NULL){}
 	luaL_openlibs(lua.L);
